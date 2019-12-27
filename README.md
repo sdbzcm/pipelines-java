@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/changxiaobao/AzureDevOps/_apis/build/status/sdbzcm.pipelines-java?branchName=master)](https://dev.azure.com/changxiaobao/AzureDevOps/_build/latest?definitionId=19&branchName=master)
+[![Build Status](https://dev.azure.com/changxiaobao/AzureDevOps/_apis/build/status/sdbzcm.pipelines-java?branchName=master)](https://dev.azure.com/changxiaobao/AzureDevOps/_build/latest?definitionId=8&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
